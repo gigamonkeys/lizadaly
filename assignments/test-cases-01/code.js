@@ -1,6 +1,6 @@
 function add(x, y) {
     return x+ y
 }
-const subtract(x) {
+function subtract(x) {
     return x
 }
